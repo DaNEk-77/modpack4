@@ -1,0 +1,13 @@
+name = "Foxy's"
+filename = "foxysmod-1.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5a6ec3d5142b623d54ee050d55a79a9903ca4b09"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8015241
+project-id = 1519786

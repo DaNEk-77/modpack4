@@ -25,6 +25,11 @@ hash = "a0f52f47c27d6ccdbee89735e459ff955ba09cdf499ef42bc901f8426be75253"
 metafile = true
 
 [[files]]
+file = "mods/carry-on.pw.toml"
+hash = "11fa4cee80d5456e1681f8229c756d8c4aaa3ce6fcd8ab0bef62f408c95441e6"
+metafile = true
+
+[[files]]
 file = "mods/corpse-x-curios-api-compat.pw.toml"
 hash = "0f24d3112418b31cf86b84d0ded37decc9dbd50cc229cec632547458c01ffdca"
 metafile = true
@@ -32,6 +37,21 @@ metafile = true
 [[files]]
 file = "mods/corpse.pw.toml"
 hash = "8e671fbd3a5460a61073cced391ec08efc6b67d765e49015eea45a1f1db159a0"
+metafile = true
+
+[[files]]
+file = "mods/create-dragons-plus.pw.toml"
+hash = "553741cf86630ed14caba26768da5b1518a38e7bf7e82de1c179b9342227d546"
+metafile = true
+
+[[files]]
+file = "mods/create-encased.pw.toml"
+hash = "2f8f16f4688e813ad634eb26780afa6b29257964474a2a18b83db3092142ed5a"
+metafile = true
+
+[[files]]
+file = "mods/create-enchantment-industry.pw.toml"
+hash = "37c21deaf7e65569fa9dcc59a477a55ab8937153c591f1bc4d6249de9582044f"
 metafile = true
 
 [[files]]
@@ -70,6 +90,11 @@ hash = "1f0eddb549f522aed1df3233672b552d2484b161ee95cbb88edce1c648c0c449"
 metafile = true
 
 [[files]]
+file = "mods/foxys.pw.toml"
+hash = "8e66cabe887c5062c48800c54b5feaa04669d2ce9d62ad019503ca23c39b4147"
+metafile = true
+
+[[files]]
 file = "mods/hypertubes.pw.toml"
 hash = "317890a10a1ccd7d28cfbcdce16708e133a97c3a49d5f8c86a095e324e044a97"
 metafile = true
@@ -87,6 +112,11 @@ metafile = true
 [[files]]
 file = "mods/patchouli.pw.toml"
 hash = "3718e8a37d0dc2939cc350cce74bcb9c36b59f48baf4560e62804f7ca6478185"
+metafile = true
+
+[[files]]
+file = "mods/platform.pw.toml"
+hash = "cf4f9fdb9d7cf582d1068fae6ca9bf7fe6d3f0f1dbb031627f339f73477d325c"
 metafile = true
 
 [[files]]
@@ -127,6 +157,11 @@ metafile = true
 [[files]]
 file = "mods/torchmaster.pw.toml"
 hash = "4acd0daed52188d2ccd8277953e697113aebf89c1bd6b1049a1e859f8eb26ce3"
+metafile = true
+
+[[files]]
+file = "mods/vanillabackport.pw.toml"
+hash = "9270ec85892fcda4278323af9f9e4cf8e847ee9295c108eb21240f7b66ff1005"
 metafile = true
 
 [[files]]
