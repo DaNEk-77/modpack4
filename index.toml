@@ -116,11 +116,6 @@ hash = "4acd0daed52188d2ccd8277953e697113aebf89c1bd6b1049a1e859f8eb26ce3"
 metafile = true
 
 [[files]]
-file = "mods/voxy-neoforged.pw.toml"
-hash = "885237ebdc9e808829597e59e47742460c81ff9f2552e098b7d60217af49aa23"
-metafile = true
-
-[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "d6e007f5dfe86aaf2451e403d40211ddd2ac526ceab49a3929bded51b5658e0a"
 metafile = true
