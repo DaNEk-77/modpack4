@@ -16,6 +16,11 @@ hash = "762fcd212e5049e6e8dcece301c4f33a17d3fc9b00744301c52c4695d7015523"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "a0f52f47c27d6ccdbee89735e459ff955ba09cdf499ef42bc901f8426be75253"
+metafile = true
+
+[[files]]
 file = "mods/corpse-x-curios-api-compat.pw.toml"
 hash = "2f6a345c8124dd87b60c8ebbbaa35d9efa27c2d1947357b3247ab98fae9db210"
 metafile = true
@@ -81,6 +86,11 @@ hash = "3718e8a37d0dc2939cc350cce74bcb9c36b59f48baf4560e62804f7ca6478185"
 metafile = true
 
 [[files]]
+file = "mods/resource-gamma-utils.pw.toml"
+hash = "d7d3f3340332bf0f5aaef45787ea104032f3efd8bf16fdfb2b0af6997de2aaea"
+metafile = true
+
+[[files]]
 file = "mods/shuffle.pw.toml"
 hash = "5bf337426a2d17721a05f611e4fb5bede13296703848b8fc7a84d3d538988d68"
 metafile = true
@@ -113,6 +123,11 @@ metafile = true
 [[files]]
 file = "mods/torchmaster.pw.toml"
 hash = "4acd0daed52188d2ccd8277953e697113aebf89c1bd6b1049a1e859f8eb26ce3"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "4b78f845d8eb6f5b47d4cd9ad534dc5e1a11e45fafbcd4106b25479bd2e080b1"
 metafile = true
 
 [[files]]
