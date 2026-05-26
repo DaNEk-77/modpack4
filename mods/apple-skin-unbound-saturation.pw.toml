@@ -1,0 +1,13 @@
+name = "Apple Skin: Unbound Saturation"
+filename = "appleskin-neoforge-mc1.21-3.0.9.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "86cc678efbdcece67387dfb7abd3ad4003bf3e0a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8046462
+project-id = 1449992

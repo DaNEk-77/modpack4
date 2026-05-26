@@ -1,0 +1,13 @@
+name = "Connected Clear Glass"
+filename = "Connected Clear Glass.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f87ca7c9b22b79778a3b6ebb5d769e6c8cea7bdc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7946048
+project-id = 1302820

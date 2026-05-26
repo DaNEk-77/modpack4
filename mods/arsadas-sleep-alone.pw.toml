@@ -1,0 +1,13 @@
+name = "ArsADA's sleep alone"
+filename = "arsadas_sleep_alone-1.1.1-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "24ae29a3a54f4288179c98bd9b9fa1bcb7ca676b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7790766
+project-id = 1371572
