@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "42ce7e34dfe419034d632a1294a2f5f8135bed0fd914fc42b2e1d9edd142b645"
+hash = "17593acffaf9be0df97ae142b6f0665c472859c6e8aff42c7edc5956f2427cca"
 
 [[files]]
 file = "mods/alltheleaks.pw.toml"
@@ -126,7 +126,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "e2a3aca8101a179153b92e99000a10d06e4b5d285d358fbe457a53690d12dab5"
+hash = "8bc57beb0d3d0c34a2ac8c50d70490623dd350ce62d0ccde9a16a1b000a514b1"
 metafile = true
 
 [[files]]
@@ -181,7 +181,7 @@ metafile = true
 
 [[files]]
 file = "mods/gjeb.pw.toml"
-hash = "4e00472517da91d13624bff63e97157681ec2e2b7f96bfcf8612bac04efd6b6a"
+hash = "e13eb97a4d1aafa0abb10808a22a92bbfa52b8c5294ced6e7557cb930c249b4e"
 metafile = true
 
 [[files]]
@@ -191,7 +191,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "8e67a96432b89ad64ec00b59666f510ead091dea23632a672ac800c77964e9ae"
+hash = "0a340d62ec786133c1cc6f40d86655a77055461ad65390a8679be294279d6f94"
 metafile = true
 
 [[files]]
@@ -211,7 +211,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
-hash = "2bdee19bd39b4bd411d7c858a7978ca9d2bdda41c1cf15920ea6be0014663f79"
+hash = "057044d2179d9e10b616ef8fa4cc870ad350842fc5c325ce0b3766160852cd13"
 metafile = true
 
 [[files]]
@@ -226,7 +226,7 @@ metafile = true
 
 [[files]]
 file = "mods/ok-zoomer.pw.toml"
-hash = "e08301069fb769d4cdf8aff75d7533126c80bfdfa682f09ba9ae98040ee725eb"
+hash = "55ef06345f5e222d564229ff9a2ee536d048d9ac2833de71d887d44b4dafd818"
 metafile = true
 
 [[files]]
@@ -236,7 +236,7 @@ metafile = true
 
 [[files]]
 file = "mods/particull.pw.toml"
-hash = "58f614f0ec76385543ad30e96726133e56302f79c2eea55c21943db92c12d98b"
+hash = "c8f0c364c3372e0a8e2502c77291fd3db7d631ff2fda24c18b012099fc59497e"
 metafile = true
 
 [[files]]
@@ -251,7 +251,7 @@ metafile = true
 
 [[files]]
 file = "mods/resource-gamma-utils.pw.toml"
-hash = "d7d3f3340332bf0f5aaef45787ea104032f3efd8bf16fdfb2b0af6997de2aaea"
+hash = "6200e17ee04a7dc2f1dd94b42ac1f3cb51cc31aacb9a47f6332e7e8716f16f28"
 metafile = true
 
 [[files]]
@@ -261,7 +261,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "8d5628a4af0f355519b17bb0c6e5783c30aa78f6aa04b77b3892cd5d7c10af03"
+hash = "f3c75c6d415e4d68307d972ed30ced99ba05968c7ff85301154a60fc42eeed95"
 metafile = true
 
 [[files]]
