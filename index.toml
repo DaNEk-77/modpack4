@@ -195,6 +195,11 @@ hash = "0a340d62ec786133c1cc6f40d86655a77055461ad65390a8679be294279d6f94"
 metafile = true
 
 [[files]]
+file = "mods/immersive-melodies.pw.toml"
+hash = "864f0fe0c99841fa5e3442be60159a937cc557f4976e341d5ccc60ce8894d640"
+metafile = true
+
+[[files]]
 file = "mods/inventory-sorter.pw.toml"
 hash = "01d2dc33988b6daf0fad9a63b7474832d3876455d1119d6c6e1dde9d203ad718"
 metafile = true
