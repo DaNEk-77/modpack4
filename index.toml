@@ -195,8 +195,18 @@ hash = "0a340d62ec786133c1cc6f40d86655a77055461ad65390a8679be294279d6f94"
 metafile = true
 
 [[files]]
+file = "mods/inventory-sorter.pw.toml"
+hash = "01d2dc33988b6daf0fad9a63b7474832d3876455d1119d6c6e1dde9d203ad718"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "e739b7355ab3cfba2e729f8f0b51eafc3d9c3afb19ee30ac7b311631610c5e66"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "d068154533d9a999acbb4008f7c33d307b583d2e6db7122a69fc02921ffdb411"
 metafile = true
 
 [[files]]
